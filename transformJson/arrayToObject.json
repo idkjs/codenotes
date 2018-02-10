@@ -1,0 +1,26 @@
+{
+  "companies": {
+    "undefined": {
+      "name": "Imeon Energy",
+      "location": "French Tech Brest+",
+      "youtube": "undefined",
+      "url": "http://www.imeon-energy.com/",
+      "description": "IMEON ENERGY develops intelligent inverters dedicated to photovoltaic installations in self-consumption. It allows simultaneous use of several sources of energy (photovoltaic / battery / public network) to mitigate the fluctuation of solar production and ensure a constant supply of energy to the equipped site. IMEON now integrates true embedded intelligence. IMEON thus become the nerve center of a photovoltaic installation.",
+      "employees": "10",
+      "sector": "#CleanTech #Mobility",
+      "logo": "https://d25e16a427ed3ce77d27-76b466cd72f6b3a6e7219a8a02851d8e.ssl.cf1.rackcdn.com/files/5938235eff393541a7a91506/size_5_imeonenergyjpg.jpg",
+      "id": "cj9pnqfos00oa0151a2uks1u6",
+      "facebook": "undefined",
+      "tranch": "1 -20",
+      "address": "10 Rue Amiral romain Desfossés – 29200 Brest",
+      "twitter": "@imeon_energy",
+      "instagram": "undefined",
+      "meta": {
+        "revision": 0,
+        "created": 1518095577651,
+        "version": 0
+      },
+      "$loki": 83
+    }
+  }
+}

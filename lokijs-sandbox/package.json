@@ -1,0 +1,15 @@
+{
+  "name": "lokijs-sandbox",
+  "version": "1.0.0",
+  "description": "* exxample: https://rawgit.com/techfort/LokiJS/master/examples/sandbox/LokiSandbox.htm * add array of companies * run node sandbox.js which writes the lokijs db config to db.json.",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lokijs": "~1.5.2"
+  }
+}

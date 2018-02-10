@@ -1,0 +1,11 @@
+{
+    "name": "@runkit/idkjs_runkit-npm-reason-cli-file-size",
+    "version": "0.0.0-master",
+    "main": "./lib/runkit-npm-reason-cli-file-size",
+    "dependencies": {
+        "remote-file-size": "3.0.4"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
